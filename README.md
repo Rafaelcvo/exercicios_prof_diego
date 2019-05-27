@@ -1,1 +1,1 @@
-# Resolucao da lista de exercicios
+# Solução da lista de exercicios
